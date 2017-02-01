@@ -1,0 +1,41 @@
+.m2w{
+  background-color: orange;
+  color: white;
+  border-color: black;
+}
+.m3w{
+  background-color: red;
+  color: white;
+  border-color: black;
+}
+.m2b{
+  background-color: blue;
+  color: white;
+  border-color: black;
+}
+.m3b{
+  background-color: green;
+  color: white;
+  border-color: black;
+}
+td{
+  font-size: 24pt !important;
+  max-width: 46.66667px;
+  max-height: 46.66667px;
+  font-weight: 600;
+  font-family: Calibri;
+  text-align: center;
+  vertical-align: center;
+}
+table{
+  min-width: 700px;
+  max-width: 700px;
+  max-height: 700px;
+  min-height: 700px;
+  padding: 0;
+  margin: auto;
+  border-collapse: collapse;
+}
+td>sub{
+  font-size: small;
+}
